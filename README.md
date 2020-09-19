@@ -3,7 +3,7 @@ Socket Programming to implement a simple cliient and server that communicate ove
 has a "**Concurrent Server**". The client supplies a sequence of codes corresponding to some product and the server returns the price of each,and if the product is available, while keeping a track of total cost of the purchases of the client
 
 This was done as a course project in our Networks Lab by
-Aditya Raj,Ayush Dalia,Parv Sood and Sahilpreet Singh Thind
+Aditya Raj,Parv Sood and Sahilpreet Singh Thind
 
 ### request message format
   | **Request_Type** | **UPC-Code** | **Number** |
